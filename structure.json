@@ -1,10 +1,10 @@
 [{
 "Question1" : {
 "quest" : "What is the value of sin(180)?",
-"answ" : "-1"
+"answ" : "0"
 },
 "Question2" : {
-"quest" : "What is your name?",
-"answ" : "Rushil"
+"quest" : "What is (sin x)^2 + (cos x)^2?",
+"answ" : "1"
 }
 }]
